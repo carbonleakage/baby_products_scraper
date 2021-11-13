@@ -51,7 +51,7 @@ def get_prod_list(url):
     return products, next_url
 
 
-url = "https://www.baby-walz.de/kombi-kinderwagen/?followSearch=10000&pageNumber=1"
+url = "https://www.baby-walz.de/hochstuehle/"
 next_url = "dummy"
 product_consolidated = pd.DataFrame()
 fout = "babywalz.csv"

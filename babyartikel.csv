@@ -1,220 +1,138 @@
 source,brand,description,original_price,final_price
-babyartikel,ABC Design,ABC Design Beratungsbox - Kombi-Kinderwagen mit persönlicher Einzelberatung und 30 Euro Gutscheincode,29.9,29.9
-babyartikel,Hauck,Hauck Kombi-Kinderwagen Saturn R Duoset (Sportwagen und Babywanne) - inkl. XXL Zubehörpaket - Caviar Stone,544.76,329.99
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Salsa 4 Air Diamond Edition - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Asphalt",879.86,839.9
-babyartikel,Junama,"Junama Kombi-Kinderwagen Diamond Individual inkl. Babywanne, Sportsitz, Wickeltasche & Regenschutz - Schwarz Rosegold",699.99,569.99
-babyartikel,Junama,"Junama Kombi-Kinderwagen Diamond Mirror inkl. Sportwagen, Babywanne, Wickeltasche, Beindecke + Zubehörpaket - Schwarz Rose",788.99,619.99
-babyartikel,Tako,"Tako Kombi-Kinderwagen Laret Imperial Sportwagen, Babywanne, Wickeltasche, Beindecke, + Zubehörpaket - Beige Schwarz",708.99,579.99
-babyartikel,Tako,"Tako Kombi-Kinderwagen Starline inkl. Sportwagen, Babywanne, Wickeltasche, Beindecke & Regenschutz - Grau Schwarz",599.0,509.96
-babyartikel,Tako,"Tako Kombi-Kinderwagen Starline Sportwagen, Babywanne, Wickeltasche, Beindecke, + Zubehörpaket - Grau Schwarz",608.99,509.96
-babyartikel,Hauck,"Hauck 4in1 Kinderwagen-Set Rapid 4S Plus (bis 25 kg) inkl. Isofix Basis, Regenschutz und Insektenschutz - Lunar Stone",509.94,399.99
-babyartikel,ABC Design,"ABC Design 3in1 Kinderwagen-Set Catania 4 - Circle Edition - inkl. Babywanne, Autositz und XXL Zubehörpaket - Woven Graphite",599.9,499.99
-babyartikel,ABC Design,"ABC Design 3in1 Kinderwagenset Condor 4 Air - Diamond Special Edition - inkl. Babywanne, Babyschale & Zubehörpaket - Asphalt",854.66,699.99
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Salsa 4 Air - inkl. Babyschale Tulip & XXL Zubehörpaket - Fashion Edition - Nature,1144.69,1106.7
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Viper 4 mit Lufträdern - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Shadow",739.8,599.9
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Turbo 4 - inkl. Babyschale Tulip & XXL Zubehörpaket - Shadow,739.6,529.99
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Salsa 4 - inkl. Babywanne, Sportsitz & Winter-Fußsack - Fashion Edition - Fox",819.8,649.9
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Salsa 4 Air - inkl. Babyschale Tulip & XXL Zubehörpaket - Diamond Edition - Dolphin,1094.69,1054.7
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Salsa 4 Air - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Diamond Edition - Dolphin",879.86,839.9
-babyartikel,Hauck,Hauck Kinderwagen-Set Soul Plus Trio Set - Berry,529.99,279.99
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Salsa 4 - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Piano",829.96,649.9
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Salsa 4 Air - inkl. Babyschale Tulip & XXL Zubehörpaket - Fashion Edition - Smaragd,1104.69,969.9
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Viper 4 mit Lufträdern - inkl. Babyschale Tulip & XXL Zubehörpaket - Shadow,889.6,769.99
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Salsa 4 Air - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Fashion Edition - Nature",929.86,889.9
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Condor 4 - inkl. Babyschale Tulip & XXL Zubehörpaket - Street,834.69,599.99
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Salsa 4 Air - inkl. Babyschale Tulip & XXL Zubehörpaket - Diamond Edition - Navy,1104.69,1034.7
-babyartikel,Hauck,Hauck Kinderwagen-Set Viper SLX Trio Set - Smoke Grey,269.99,149.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Viper 4 - inkl. Babywanne, Sportsitz, Wickeltasche und Winter-Fußsack - Fashion Edition - Fox",899.7,699.9
-babyartikel,Hauck,Hauck 4in1 Kinderwagen-Set Soul Plus Trio Set inkl. Isofix Basis und XXL Zubehörpaket - Berry,669.94,349.99
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Salsa 4 - inkl. Babyschale Tulip & XXL Zubehörpaket - Piano,1044.79,849.9
-babyartikel,Junama,"Junama Kombi-Kinderwagen Diamond Mirror inkl. Sportwagen, Babywanne, Wickeltasche, Beindecke & Regenschutz - Schwarz Rose",779.0,599.99
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Viper 4 - inkl. Babyschale Tulip & XXL Zubehörpaket - Diamond Edition - Navy,1054.69,979.9
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Turbo 4 - inkl. Babyschale Hazel & XXL Zubehörpaket - Street,689.6,529.99
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Salsa 4 Air - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Diamond Edition - Navy",879.86,839.9
-babyartikel,Tako,"Tako Kombi-Kinderwagen Laret Imperial inkl. Sportwagen, Babywanne, Wickeltasche, Beindecke & Regenschutz - Beige Schwarz",699.0,579.99
-babyartikel,Hauck,"Hauck Kinderwagen-Set Rapid 4 Plus Trio Set mit Babywanne, Autositz und Sportwagen (bis 25 kg) - Denim Grey",299.99,199.99
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Salsa 4 - inkl. Babyschale Tulip & XXL Zubehörpaket - Fashion Edition - Midnight,1034.79,849.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Condor 4 Air - Diamond Special Edition - inkl. Babywanne & Sportsitz - Asphalt,669.9,649.99
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Salsa 4 - inkl. Babyschale Tulip & XXL Zubehörpaket - Diamond Edition - Navy,1044.79,849.9
-babyartikel,Hauck,"Hauck 4in1 Kinderwagen-Set Eagle 4S Duoset inkl. Autositz, Isofix-Base, Sportwagen, Babywanne & XXL Zubehörpaket - Pink Grey",739.96,499.99
-babyartikel,ABC Design,"ABC Design 3in1 Kinderwagenset Viper 4 - Diamond Special Edition - inkl. Babywanne, Babyschale & Zubehörpaket - Asphalt",884.66,729.99
-babyartikel,Hauck,"Hauck Kinderwagen-Set Rapid 4 Plus Trio Set mit Babywanne, Autositz und Sportwagen (bis 25 kg) - Grey Mint",299.99,219.99
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Salsa 4 Air - Diamond Edition - inkl. Babyschale Tulip & XXL Zubehörpaket - Rose Gold,1104.69,1066.7
-babyartikel,Hauck,Hauck Kombi-Kinderwagen Vision X Duoset Black (Sportwagen und Babywanne) inkl. XXL Zubehörpaket - Melange Rose,638.97,449.99
-babyartikel,Hauck,Hauck Kombi-kinderwagen Mars Duoset inkl. Sportwagen & Babywanne für Neugeborene - Caviar Stone,594.76,349.99
-babyartikel,Hauck,Hauck Kombi-kinderwagen Mars Duoset inkl. Sportwagen & Babywanne für Neugeborene - Wild Blooms Black,594.76,349.99
-babyartikel,Hauck,Hauck Kombi-kinderwagen Mars Duoset inkl. Sportwagen & Babywanne für Neugeborene - Denim Silver,594.76,349.99
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Viper 4 - inkl. Babyschale Tulip & XXL Zubehörpaket - Fashion Edition - Midnight,1044.69,969.9
-babyartikel,Junama,"Junama Kombi-Kinderwagen Diamond inkl. Babywanne, Sportsitz, Wickeltasche & Regenschutz -  Grau",699.99,519.99
-babyartikel,Hauck,"Hauck 4in1 Kinderwagen-Set Apollo inkl. Autositz, Isofix-Base, Babywanne, Sportsitz und XXL Zubehörpaket - Lunar",879.95,599.99
-babyartikel,Hauck,"Hauck 4in1 Kinderwagen-Set Apollo inkl. Autositz, Isofix-Base, Babywanne, Sportsitz und XXL Zubehörpaket - Denim",879.95,599.99
-babyartikel,Hauck,Hauck Kinderwagen-Set Rapid 4S Trio Set inkl. Isofix Basis - Caviar Emerald,469.99,349.99
-babyartikel,Hauck,Hauck 3in1 Kinderwagen-Set Rapid 4R Plus Trioset (bis 25 kg) inkl. Babyschale Comfort Fix - Grey,369.9,249.99
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Salsa 4 Air Diamond Edition - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Rose Gold",879.86,839.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Turbo 4 - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Street",539.86,499.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Samba - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Diamond Edition - Asphalt",879.9,839.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Condor 4 - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Street",639.86,569.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Samba - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Diamond Edition - Rose Gold",879.9,839.9
-babyartikel,Hauck,Hauck Kombi-Kinderwagen Saturn R Duoset (Sportwagen und Babywanne) - inkl. XXL Zubehörpaket - Wild Blooms Black,544.76,329.99
-babyartikel,Hauck,"Hauck 4in1 Kinderwagen-Set Eagle 4S Duoset inkl. Autositz, Isofix-Base, Sportwagen, Babywanne & XXL Zubehörpaket - Black Grey",819.06,499.99
-babyartikel,Hauck,"Hauck 4in1 Kinderwagen-Set Eagle 4S Duoset inkl. Autositz, Isofix-Base, Sportwagen, Babywanne & XXL Zubehörpaket - Denim Grey",819.06,499.99
-babyartikel,Hauck,Hauck Kombi-kinderwagen Mars Duoset inkl. Sportwagen & Babywanne für Neugeborene - Lunar Stone,594.76,349.99
-babyartikel,Hauck,"Hauck 4in1 Kinderwagen-Set Vision X Duoset Black inkl. i-Size Babyschale, Isofix Basis und XXL Zubehörpaket - Melange Grey",958.97,649.99
-babyartikel,Hauck,Hauck 3in1 Kinderwagen-Set Rapid 4R Plus Trioset (bis 25 kg) inkl. Babyschale Comfort Fix - Rose,369.9,249.99
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Viper 4 mit Lufträdern - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Street",719.86,679.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Viper 4 mit Lufträdern - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Graphite Grey",719.86,679.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Salsa 4 - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Graphite Grey",769.86,729.9
-babyartikel,Hauck,Hauck 3in1 Kinderwagen-Set Rapid 4R Plus Trioset (bis 25 kg) inkl. Babyschale Comfort Fix - Black,369.9,249.99
-babyartikel,Junama,"Junama Kombi-Kinderwagen Diamond Mirror inkl. Babywanne, Sportsitz, Wickeltasche & Regenschutz - Satin Hellgrau",749.99,589.99
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Salsa 4 - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Street",769.86,729.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Samba - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Diamond Edition - Navy",879.9,839.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Viper 4 Diamond Edition- inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Asphalt",829.86,789.9
-babyartikel,Hauck,Hauck Kombi-Kinderwagen Vision X Duoset Black (Sportwagen und Babywanne) inkl. XXL Zubehörpaket - Melange Beige,638.97,449.99
-babyartikel,Hauck,Hauck Kombi-Kinderwagen Vision X Duoset Silver (Sportwagen und Babywanne) inkl. XXL Zubehörpaket - Melange Grey,638.97,449.99
-babyartikel,Hauck,"Hauck Kinderwagen-Set Rapid 4S Plus Trioset mit Babywanne, Autositz und Sportwagen (bis 25 kg) - Lunar Stone",369.99,359.99
-babyartikel,Hauck,Hauck Kombi-Kinderwagen Vision X Duoset Black (Sportwagen und Babywanne) inkl. XXL Zubehörpaket - Melange Grey,638.97,449.99
-babyartikel,Hauck,Hauck Kombi-Kinderwagen Vision X Duoset Black (Sportwagen und Babywanne) inkl. XXL Zubehörpaket - Melange Black,638.97,449.99
-babyartikel,Hauck,Hauck Kombi-Kinderwagen Vision X Duoset Silver (Sportwagen und Babywanne) inkl. XXL Zubehörpaket - Melange Black,638.97,449.99
-babyartikel,Hauck,"Hauck 4in1 Kinderwagen-Set Apollo inkl. Autositz, Isofix-Base, Babywanne, Sportsitz und XXL Zubehörpaket - Caviar",879.95,599.99
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Condor 4 - inkl. Babywanne & Sportsitz - Street,599.9,499.9
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Salsa 4 Air - Diamond Edition - inkl. Babyschale Tulip & XXL Zubehörpaket - Asphalt,1104.69,1066.7
-babyartikel,Hauck,"Hauck Kinderwagen-Set Pacific 4 Trioset inkl. Babywanne, Autositz und Sportwagen - Melange Charcoal",249.99,149.9
-babyartikel,Hauck,"Hauck 4in1 Kinderwagen-Set Vision X Duoset Black inkl. i-Size Babyschale, Isofix Basis und XXL Zubehörpaket - Melange Beige",958.97,649.99
-babyartikel,Hauck,"Hauck 4in1 Kinderwagen-Set Vision X Duoset Black inkl. i-Size Babyschale, Isofix Basis und XXL Zubehörpaket - Melange Rose",958.97,649.99
-babyartikel,Hauck,"Hauck 4in1 Kinderwagen-Set Vision X Duoset Black inkl. i-Size Babyschale, Isofix Basis und XXL Zubehörpaket - Melange Black",958.97,649.99
-babyartikel,Hauck,"Hauck 4in1 Kinderwagen-Set Vision X Duoset Silver inkl. i-Size Babyschale, Isofix Basis und XXL Zubehörpaket - Melange Black",958.97,649.99
-babyartikel,Hauck,"Hauck 4in1 Kinderwagen-Set Vision X Duoset Silver inkl. i-Size Babyschale, Isofix Basis und XXL Zubehörpaket - Melange Grey",958.97,649.99
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Samba - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Diamond Edition - Dolphin",879.9,839.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Samba - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Fashion Edition - Midnight",879.9,839.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Salsa 4 Air - Fashion Edition - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Smaragd",879.86,799.9
-babyartikel,Hauck,Hauck Kinderwagen-Set Shopper SLX Trioset - Pooh Cuddles,239.99,169.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Salsa 4 - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Fashion Edition - Midnight",829.86,749.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Salsa 4 - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Diamond Edition - Navy",829.86,749.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Viper 4 - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Diamond Edition - Navy",829.86,789.9
-babyartikel,Hauck,Hauck Kombi-Kinderwagen Apollo - inkl. Sportwagen und Babywanne für Neugeborene - Lunar,479.99,449.99
-babyartikel,Hauck,Hauck Kombi-Kinderwagen Apollo - inkl. Sportwagen und Babywanne für Neugeborene - Denim,479.99,449.99
-babyartikel,Hauck,Hauck Kinderwagen-Set Rapid 4S Plus Trioset Deluxe - Caviar Neon Yellow,369.99,199.99
-babyartikel,Hauck,Hauck Kinderwagen-Set Rapid 4S Plus Trioset Deluxe - Caviar Emerald,369.99,199.99
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Salsa 4 Air - inkl. Babywanne & Sportsitz - Diamond Edition - Asphalt,839.9,839.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Viper 4 - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Fashion Edition - Midnight",829.86,789.9
-babyartikel,Hauck,Hauck Kombi-Kinderwagen Apollo - inkl. Sportwagen und Babywanne für Neugeborene - Caviar,479.99,449.99
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Turbo 4 - inkl. Babywanne & Sportsitz - Shadow,499.9,449.9
-babyartikel,Hauck,Hauck Kombi-Kinderwagen Saturn R Duoset (Sportwagen und Babywanne) - inkl. XXL Zubehörpaket - Lunar Stone,544.76,329.99
-babyartikel,Hauck,Hauck Kombi-Kinderwagen Saturn R Duoset (Sportwagen und Babywanne) - inkl. XXL Zubehörpaket - Denim Silver,544.76,329.99
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Salsa 4 Air - inkl. Babywanne & Sportsitz - Fashion Edition - Nature,889.9,889.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Salsa 4 - inkl. Babywanne & Sportsitz - Piano,729.9,669.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Samba - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Fashion Edition - Smaragd",879.9,749.9
-babyartikel,Hauck,"Hauck Kinderwagen-Set Rapid 4S Plus Trioset mit Babywanne, Autositz und Sportwagen (bis 25 kg) - Caviar Silver",369.99,369.99
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Viper 4 - inkl. Babywanne und Sportsitz - Shadow,649.9,599.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Turbo 4 - inkl. Babywanne & Sportsitz - Street,499.9,449.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Salsa 4 Air - inkl. Babywanne & Sportsitz - Diamond Edition - Dolphin,839.9,839.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Viper 4 - Diamond Special Edition - inkl. Babywanne und Sportsitz - Asphalt,699.9,649.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Salsa 4 - inkl. Babywanne & Sportsitz - Street,729.9,729.9
-babyartikel,ABC Design,"ABC Design 3in1 Kinderwagen-Set Catania 4 - Circle Edition - inkl. Babyschale, Babywanne, Sportwagen und Zubehör - Woven Graphite",599.99,489.99
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Salsa 4 Air - inkl. Babywanne & Sportsitz - Diamond Edition - Navy,839.9,839.9
-babyartikel,joie,"joie Kombi-Kinderwagen Chrome DLX Set inkl. Babywanne, Fußdecke, Adapter & Regenschutz - Pavement",389.95,369.95
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Salsa 4 Air - inkl. Babywanne & Sportsitz - Diamond Edition - Rose Gold,839.9,839.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Salsa 4 - inkl. Babywanne & Sportsitz - Fashion Edition - Fox,749.99,749.99
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Salsa 4 - inkl. Babywanne & Sportsitz - Fashion Edition - Midnight,789.9,749.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Viper 4 - inkl. Babywanne und Sportsitz - Street,679.9,679.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Salsa 4 - inkl. Babywanne & Sportsitz - Graphite Grey,729.9,729.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Samba - inkl. Babywanne und Sportsitz - Diamond Edition - Asphalt,839.9,839.9
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Viper 4 mit Lufträdern - inkl. Babyschale Tulip & XXL Zubehörpaket - Graphite Grey,944.69,879.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Viper 4 - inkl. Babywanne und Sportsitz - Fashion Edition - Fox,749.9,699.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Salsa 4 Air - inkl. Babywanne & Sportsitz - Fashion Edition - Smaragd,839.9,799.9
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Salsa 4 Air - Fashion Edition Starter Set 9-teilig - Cornet - inkl. Autositz Tulip & Zubehörpaket,1359.9,1359.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Salsa 4 - inkl. Babywanne & Sportsitz - Diamond Edition - Navy,789.9,749.9
-babyartikel,joie,"joie Kombi-Kinderwagen Chrome DLX Set inkl. Babywanne, Fußdecke, Adapter & Regenschutz - Foggy Gray",389.95,369.95
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Samba - inkl. Babywanne und Sportsitz - Fashion Edition - Midnight,839.9,839.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Viper 4 - inkl. Babywanne und Sportsitz - Graphite Grey,679.9,679.9
-babyartikel,TFK,TFK Kombi-Kinderwagen Mono mit Luftkammerreifen - inkl. Kombi-Einheit (Babywanne+Sitz) + XXL-Zamboo Zubehörpaket - Anthrazit,969.96,899.0
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Viper 4 mit Lufträdern - inkl. Babyschale Tulip & XXL Zubehörpaket - Street,944.69,879.9
-babyartikel,Recaro,Recaro Kinderwagen-Gestell Celona - Black,499.0,499.0
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Samba - inkl. Babywanne und Sportsitz - Diamond Edition - Rose Gold,839.9,839.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Samba - inkl. Babywanne und Sportsitz - Diamond Edition - Dolphin,839.9,839.9
-babyartikel,Recaro,Recaro Sitzeinheit für Sadena und Celona - Select - Night Black,249.0,249.0
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Samba - inkl. Babyschale Tulip & XXL Zubehörpaket - Diamond Edition - Rose Gold,1106.69,999.9
-babyartikel,Recaro,Recaro Babywanne für Sadena und Celona - Prime - Silent Grey,269.0,269.0
-babyartikel,Recaro,Recaro Babywanne für Sadena und Celona - Select - Night Black,249.0,249.0
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Salsa 4 - inkl. Babyschale Tulip & XXL Zubehörpaket - Street,994.69,879.9
-babyartikel,Recaro,Recaro Sitzeinheit für Sadena und Celona - Prime - Mat Black,269.0,269.0
-babyartikel,Recaro,Recaro Sitzeinheit für Sadena und Celona - Prime - Silent Grey,269.0,269.0
-babyartikel,Recaro,"Recaro Kombi-Kinderwagen Celona inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Prime - Silent Grey",1071.96,899.99
-babyartikel,Recaro,Recaro Babywanne für Sadena und Celona - Prime - Pale Rose,269.0,269.0
-babyartikel,Recaro,Recaro Babywanne für Sadena und Celona - Select - Garnet Red,249.0,249.0
-babyartikel,Recaro,Recaro Babywanne für Sadena und Celona - Prime - Mat Black,269.0,269.0
-babyartikel,Recaro,Recaro Babywanne für Sadena und Celona - Prime - Sky Blue,269.0,269.0
-babyartikel,Recaro,Recaro Sitzeinheit für Sadena und Celona - Prime - Pale Rose,269.0,269.0
-babyartikel,Recaro,Recaro Sitzeinheit für Sadena und Celona - Prime - Sky Blue,269.0,269.0
-babyartikel,Recaro,Recaro Babywanne für Sadena und Celona - Select - Pacific Blue,249.0,249.0
-babyartikel,Recaro,Recaro Sitzeinheit für Sadena und Celona - Select - Pacific Blue,249.0,249.0
-babyartikel,Fillikid,Fillikid 3 in 1 Kombi-Kinderwagen-Set Fill Panther mit Kombi-Einheit ( Babywanne + Sportsitz) & Autositz - Hellgrau Melange,339.9,299.99
-babyartikel,Recaro,Recaro Kinderwagen-Gestell Sadena - Silver,379.0,379.0
-babyartikel,Recaro,Recaro Kinderwagen-Gestell Sadena - Black,379.0,379.0
-babyartikel,Recaro,"Recaro Kombi-Kinderwagen Celona inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Prime - Mat Black",1071.96,899.99
-babyartikel,TFK,TFK Kombi-Kinderwagen Mono mit Luftkammerreifen - inkl. Kombi-Einheit (Babywanne + Sitz) und XXL-Zamboo Zubehörpaket - Glow,1109.96,1079.0
-babyartikel,Recaro,"Recaro Kombi-Kinderwagen Celona inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Select - Night Black",1031.96,849.99
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Salsa 4 - inkl. Babyschale Tulip & XXL Zubehörpaket - Graphite Grey,994.69,879.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Viper 4 - inkl. Babywanne und Sportsitz - Diamond Edition - Asphalt,789.9,789.9
-babyartikel,Hauck,"Hauck Kombi-kinderwagen Eagle 4S Duoset inkl. Sportwagen, Babywanne, Beindecke und XXL Zubehörpaket - Denim Grey",489.98,299.99
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Samba - inkl. Babyschale Tulip & XXL Zubehörpaket - Fashion Edition - Midnight,1096.69,999.9
-babyartikel,Hauck,"Hauck Kombi-kinderwagen Eagle 4S Duoset inkl. Sportwagen, Babywanne, Beindecke und XXL Zubehörpaket - Pink Grey",489.98,299.99
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Samba - inkl. Babyschale Tulip & XXL Zubehörpaket - Diamond Edition - Asphalt,1106.69,999.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Viper 4 - inkl. Babywanne und Sportsitz - Fashion Edition - Smaragd,749.9,699.9
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Samba - inkl. Babyschale Tulip & XXL Zubehörpaket - Diamond Edition - Dolphin,1096.69,999.9
-babyartikel,TFK,TFK Kombi-Kinderwagen Mono mit Luftkammerreifen - inkl. Kombi-Einheit (Babywanne + Sitz) + XXL-Zamboo Zubehörpaket - Schwarz,899.96,869.0
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Viper 4 - Diamond Edition - inkl. Babyschale Tulip & XXL Zubehörpaket - Asphalt,1054.69,979.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Samba - inkl. Babywanne und Sportsitz - Diamond Edition - Navy,839.9,839.9
-babyartikel,TFK,TFK Kombi-Kinderwagen Mono mit Luftkammerreifen - inkl. Kombi-Einheit (Babywanne + Sitz) + XXL-Zamboo Zubehörpaket - Grau,899.96,869.0
-babyartikel,TFK,TFK Kombi-Kinderwagen Mono mit Luftkammerreifen - inkl. Kombi-Einheit (Babywanne+Sitz) + XXL-Zamboo Zubehörpaket - Prem. Grau,969.96,939.0
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Samba - inkl. Babyschale Tulip & XXL Zubehörpaket - Diamond Edition - Navy,1106.69,999.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Viper 4 - inkl. Babywanne und Sportsitz - Diamond Edition - Navy,789.9,789.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Salsa 4 - Fashion Edition - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Fox",789.95,749.99
-babyartikel,Hauck,"Hauck Kombi-kinderwagen Eagle 4S Duoset inkl. Sportwagen, Babywanne, Beindecke und Insektenschutz - Denim Grey",449.99,399.99
-babyartikel,Hauck,"Hauck Kombi-kinderwagen Eagle 4S Duoset inkl. Sportwagen, Babywanne, Beindecke und Insektenschutz - Pink Grey",449.99,399.99
-babyartikel,TFK,TFK Kombi-Kinderwagen Mono mit Luftkammerreifen - inkl. Kombi-Einheit (Babywanne+Sitz) + XXL-Zamboo Zubehör - Antiseptisch,1129.96,1099.0
-babyartikel,Hauck,"Hauck Kombi-Kinderwagen Apollo inkl. Babywanne, Sportsitz und XXL Zubehörpaket - Denim",549.97,369.99
-babyartikel,Hauck,"Hauck Kombi-Kinderwagen Apollo inkl. Babywanne, Sportsitz und XXL Zubehörpaket - Lunar",549.97,369.99
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Samba - inkl. Babywanne und Sportsitz - Fashion Edition - Smaragd,839.9,749.9
-babyartikel,TFK,TFK Kombi-Kinderwagen Mono mit Luftreifen - inkl. Kombi-Einheit (Babywanne + Sitz) + XXL-Zamboo Zubehörpaket - Anthrazit,969.96,899.0
-babyartikel,joie,"joie Kombi-Kinderwagen Litetrax 4 Air mit Luftreifen, Schieber-Ablagefach, Babywanne, Adapter & Zubehör Paket - Black",360.84,319.99
-babyartikel,joie,"joie 4in1 Kombi-Kinderwagen-Set Mytrax mit Adapter, Babyschale, Babywanne, Isofix-Basis & XXL-Zubehörpaket - Pavement",666.72,599.99
-babyartikel,Hauck,Hauck Kinderwagen-Set Viper SLX Trio Set - Caviar Grey,269.99,239.0
-babyartikel,Blij'r,Blij'r 2 in 1 Kinderwagen - Stef 360°,329.99,229.0
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Viper 4 - Fashion Edition - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Fox",789.86,699.9
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Samba - inkl. Babyschale Tulip & XXL Zubehörpaket - Fashion Edition - Smaragd,1096.69,899.9
-babyartikel,ABC Design,"ABC Design Kombi-Kinderwagen Viper 4 - Fashion Edition - inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Smaragd",789.86,699.9
-babyartikel,joie,"joie 4in1 Kombi-Kinderwagen-Set Litetrax 4 Air mit Adapter, Babyschale, Babywanne, Isofix-Basis & XXL-Zubehörpaket - Black",616.72,549.99
-babyartikel,TFK,TFK Kombi-Kinderwagen Mono mit Luftreifen - inkl. Kombi-Einheit (Babywanne + Sitz) + XXL-Zamboo Zubehörpaket - Olive,899.96,869.0
-babyartikel,Knorr Baby,Knorr Baby Kombi-Kinderwagen Yuu - Melange-Anthrazit,399.0,259.96
-babyartikel,ABC Design,ABC Design 3in1 Kinderwagen-Set Salsa 4 Air - Fashion Edition Starter Set 13-teilig - Stone - inkl. Autositz Tulip & Zubehörpaket,1459.9,1459.9
-babyartikel,Chicco,Chicco Kombi-Kinderwagen Duo Stylego Up Crossover - Jet Black,599.0,459.96
-babyartikel,Recaro,Recaro Babywanne für Sadena und Celona - Select - Teal Green,249.0,249.0
-babyartikel,Recaro,Recaro Sitzeinheit für Sadena und Celona - Select - Teal Green,249.0,249.0
-babyartikel,TFK,TFK Kombi-Kinderwagen Mono mit Luftreifen - inkl. Kombi-Einheit (Babywanne + Sitz) + XXL-Zamboo Zubehörpaket - Grau,899.96,869.0
-babyartikel,joie,"joie 4in1 Kombi-Kinderwagen-Set Chrome DLX mit Adapter, Babyschale, Babywanne, Isofix-Basis & XXL-Zubehörpaket - Pavement",651.84,579.99
-babyartikel,Recaro,"Recaro 4in1 Kinderwagenset Celona inkl. Sitzeinheit, Babywanne, Babyschale +  Isofix-Base - Prime - Mat Black",1415.9,1249.99
-babyartikel,TFK,TFK Kombi-Kinderwagen Mono mit Luftreifen - inkl. Kombi-Einheit (Babywanne + Sitz) + XXL-Zamboo Zubehörpaket - Schwarz,899.96,869.0
-babyartikel,TFK,TFK Kombi-Kinderwagen Mono mit Luftreifen - inkl. Kombi-Einheit (Babywanne + Sitz) und XXL-Zamboo Zubehörpaket - Marine,899.96,869.0
-babyartikel,Recaro,"Recaro 4in1 Kinderwagenset Celona inkl. Sitzeinheit, Babywanne, Babyschale + Isofix-Base - Select - Night Black",1356.8,1199.99
-babyartikel,Recaro,"Recaro 4in1 Kinderwagenset Celona inkl. Sitzeinheit, Babywanne, Babyschale + Isofix-Base - Prime - Silent Grey",1415.9,1249.99
-babyartikel,Recaro,"Recaro 4in1 Kinderwagenset Celona inkl. Sitzeinheit, Babywanne, Babyschale + Isofix-Base - Select - Teal Green",1356.8,1199.99
-babyartikel,Hauck,Hauck Kinderwagen-Set Rapid 4 Plus Trio Set - Caviar Silver,299.99,249.99
-babyartikel,Peg Perego,Peg Perego Kombi-Kinderwagen Ypsi Combi - Ebony,799.0,559.96
-babyartikel,Knorr Baby,Knorr Baby Kombi-Kinderwagen Head Sport inkl. Babywanne & Sportsitz - Darkgrey-Yellow,599.0,379.96
-babyartikel,Peg Perego,Peg Perego Kombi-Kinderwagen Ypsi Combi - Class Grey,699.0,509.96
-babyartikel,Recaro,"Recaro Kombi-Kinderwagen Celona inkl. Babywanne, Sportsitz & XXL Zubehörpaket - Select - Teal Green",1031.96,849.99
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Viper 4 - inkl. Babywanne und Sportsitz - Fashion Edition - Midnight,789.9,789.9
-babyartikel,joie,"joie Kombi-Kinderwagen Mytrax mit Luftreifen, Babywanne, Adapter & Zubehör Paket - Pavement",410.84,369.99
-babyartikel,Hauck,"Hauck Kombi-kinderwagen Eagle 4S Duoset inkl. Sportwagen, Babywanne, Beindecke und XXL Zubehörpaket - Black Grey",489.98,299.99
-babyartikel,TFK,TFK Kombi-Kinderwagen Mono mit Luftreifen - inkl. Kombi-Einheit (Babywanne + Sitz) + XXL-Zamboo Zubehörpaket - Premium Grau,969.96,939.0
-babyartikel,TFK,TFK Kombi-Kinderwagen Mono mit Luftkammerreifen - inkl. Kombi-Einheit (Babywanne+Sitz) und XXL-Zamboo Zubehörpaket - Marine,899.96,869.0
-babyartikel,TFK,TFK Kombi-Kinderwagen Mono mit Luftkammerreifen - inkl. Kombi-Einheit (Babywanne + Sitz) + XXL-Zamboo Zubehörpaket - Olive,899.96,869.0
-babyartikel,Hauck,"Hauck Kombi-kinderwagen Eagle 4S Duoset inkl. Sportwagen, Babywanne, Beindecke und Insektenschutz - Black Grey",449.99,399.99
-babyartikel,TFK,TFK Kombi-Kinderwagen Mono mit Luftreifen - inkl. Kombi-Einheit (Babywanne + Sitz) + XXL-Zamboo Zubehörpaket - Antiseptisch,1129.96,1099.0
-babyartikel,TFK,TFK Kombi-Kinderwagen Mono mit Luftreifen - inkl. Kombi-Einheit (Babywanne + Sitz) und XXL-Zamboo Zubehörpaket - Glow,1109.96,1079.0
-babyartikel,Hauck,"Hauck Kombi-Kinderwagen Apollo inkl. Babywanne, Sportsitz und XXL Zubehörpaket - Caviar",549.97,369.99
-babyartikel,joie,"joie 4in1 Kombi-Kinderwagen-Set Litetrax 4 mit Adapter, Babyschale, Babywanne, Isofix-Basis & XXL-Zubehörpaket - Coal",576.72,504.99
-babyartikel,joie,"joie Kombi-Kinderwagen Litetrax 4 mit Schieber-Ablagefach, Babywanne, Adapter & Zubehör Paket - Black",320.84,279.99
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Salsa 4 Air - inkl. Babywanne & Sportsitz + Zubehörset - Fashion Edition - Cornet,1599.9,1599.9
-babyartikel,ABC Design,ABC Design Kombi-Kinderwagen Salsa 4 Air - inkl. Babywanne & Sportsitz + Zubehörset - Fashion Edition - Stone,1699.99,1699.99
+babyartikel,Hauck,Hauck Bouncer 2in1 Premium (verstellbarer Neugeborenenaufsatz & Wippe) für Alpha & Beta Hochstuhl - Jersey Charcoal,89.9,89.9
+babyartikel,Hauck,Hauck Bouncer 2in1 Premium (verstellbarer Neugeborenenaufsatz & Wippe) für Alpha & Beta Hochstuhl - Nordic Grey,89.9,89.9
+babyartikel,Hauck,Hauck Alpha Plus Natur 5-tlg. XXL Newborn Set - Hochstuhl + 2in1 Neugeboreneneinsatz + Alpha Tray + Sitzpolster,229.6,179.99
+babyartikel,Hauck,Hauck Alpha Plus Grau Newborn Set - 4-tlg. Hochstuhl + Aufsatz & Wippe Premium Jersey Charcoal + Sitzpolster,219.97,189.9
+babyartikel,Hauck,Hauck Hochstuhl Alpha Natur - im Sparset inkl. Holz-Essbrett und Sitzkissen Nordic Grey,159.7,119.9
+babyartikel,Hauck,Hauck Sitzpolster / Sitzverkleinerer - Deluxe für Alpha Hochstuhl - Grau,24.9,19.9
+babyartikel,Hauck,Hauck Alpha Plus Walnut Newborn Set - 4-tlg. Hochstuhl + Neugeboreneneinsatz & Wippe Stretch Beige + Sitzpolster,149.97,129.99
+babyartikel,Hauck,Hauck Hochstuhl & Babyliege ab Geburt - Grow Up Newborn Set (faltbar & klappbar) - Melange Grey,179.99,139.99
+babyartikel,Hauck,"Hauck Beta Plus White Newborn Set - 5-tlg. Hochstuhl + Aufsatz & Wippe Premium, Essbrett, Sitzkissen - Jersey Charcoal",219.8,199.99
+babyartikel,Hauck,Hauck Neugeborenenaufsatz & Wippe für Alpha Hochstuhl - Bouncer 2in1 - Hearts Grey,74.9,56.98
+babyartikel,Hauck,Hauck Sitzverkleinerer für Alpha Hochstuhl - Select Line - Jersey Charcoal,39.9,34.9
+babyartikel,Hauck,Hauck Alpha Tray - 2-teiliges Essbrett & Tisch für Alpha Hochstühle - Grey / Grau,54.9,39.99
+babyartikel,Hauck,Hauck Essbrett & Tisch aus Holz für Alpha Hochstühle (Wooden Tray) - Natur,39.9,29.9
+babyartikel,Hauck,Hauck Hochstuhl Alpha Plus Rose - im Sparset inkl. Sitzkissen Deluxe Grey - Rosa,119.9,89.9
+babyartikel,Hauck,"Hauck Beta Plus White Newborn Set - 5-tlg. Hochstuhl + Aufsatz & Wippe Premium, Essbrett, Sitzkissen - Nordic Grey",199.99,199.99
+babyartikel,Hauck,Hauck Hochstuhl Alpha Charcoal Selectline - im Sparset inkl. Holz-Essbrett und Sitzkissen Jersey Charcoal,189.7,129.9
+babyartikel,Hauck,Hauck Alpha Plus Natur Newborn Set - 4-tlg. Hochstuhl + Aufsatz & Wippe Premium Jersey Charcoal + Sitzpolster,189.7,169.9
+babyartikel,Hauck,Hauck Alpha Plus Grau Newborn Set - 4-tlg. Hochstuhl + Aufsatz & Wippe Premium Nordic Grey + Sitzpolster,194.7,169.9
+babyartikel,Hauck,Hauck Hochstuhlauflage Deluxe - Nordic Grey,29.9,29.9
+babyartikel,Hauck,Hauck Alpha Plus White Newborn Set - 4-tlg. Hochstuhl + Aufsatz & Wippe Premium Nordic Grey + Sitzpolster,194.7,169.9
+babyartikel,Hauck,Hauck Alpha Plus Grau Newborn Set Deluxe - 4-tlg. Hochstuhl + 2in1 Neugeboreneneinsatz (verstellbar) + Sitzpolster,179.97,159.99
+babyartikel,Hauck,Hauck Alpha Plus White Newborn Set - 4-tlg. Hochstuhl + Aufsatz & Wippe Premium Jersey Charcoal + Sitzpolster,179.9,179.9
+babyartikel,Hauck,Hauck Alpha Plus Natur Newborn Set - 4-tlg. Hochstuhl + Aufsatz & Wippe Premium Nordic Grey + Sitzpolster,184.7,159.9
+babyartikel,Hauck,Hauck Beta Plus Natur Newborn Set Deluxe - 5-tlg. Hochstuhl + 2in1 Neugeboreneneinsatz + Essbrett + Sitzpolster,179.99,169.99
+babyartikel,Hauck,Hauck Hochstuhl Alpha Plus Move - mit Essbrett und Rollen - Natur,119.9,99.9
+babyartikel,Hauck,Hauck Alpha Plus Natur Newborn Set - 4-tlg. Hochstuhl + Neugeboreneneinsatz & Wippe Stretch Beige + Sitzpolster,149.97,129.99
+babyartikel,Hauck,Hauck Neugeborenenaufsatz & Wippe für Alpha Hochstuhl - Bouncer 2in1 - Hearts Beige,74.9,56.98
+babyartikel,Hauck,Hauck Alpha Plus Weiß Newborn Set Deluxe - 4-tlg. Hochstuhl + 2in1 Neugeboreneneinsatz (verstellbar) + Sitzpolster,179.97,159.99
+babyartikel,Hauck,Hauck Alpha Plus Grau XXL Newborn Set - Hochstuhl + 2in1 Aufsatz + Alpha Tray Essbrett + Zubehör - Jersey Charcoal,294.5,249.99
+babyartikel,Hauck,Hauck Hochstuhl Beta Plus - Whitewashed Dots,109.99,109.99
+babyartikel,Hauck,Hauck Hochstuhl Alpha Plus Grey - im Sparset inkl. Sitzkissen Jersey Charcoal - Grau,109.8,89.9
+babyartikel,Hauck,"Hauck Beta Plus White Newborn Set - 5-tlg. Hochstuhl + Aufsatz & Wippe Deluxe, Essbrett, Sitzkissen - Melange Grey",189.99,189.99
+babyartikel,Hauck,Hauck Hochstuhl Gamma Plus Set Natur - inkl. Essbrett und Sitzpolster Deluxe,114.8,84.99
+babyartikel,Hauck,Hauck Alpha Plus Grey Newborn Set - 4-tlg. Hochstuhl + Neugeboreneneinsatz & Wippe Stretch Grey + Sitzpolster,159.97,139.99
+babyartikel,Hauck,Hauck Hochstuhl Beta Plus - Natur Check,109.99,109.99
+babyartikel,Hauck,Hauck Hochstuhl Gamma Plus - Natur,89.9,74.99
+babyartikel,Hauck,Hauck Hochstuhl Alpha Plus Select - Charcoal / Dunkelgrau,119.9,119.9
+babyartikel,Hauck,Hauck Hochstuhl Alpha Plus Natur - im Sparset inkl. Sitzkissen Nordic Grey,89.9,89.9
+babyartikel,Hauck,Hauck Hochstuhlauflage Deluxe - Select Line - Jersey Charcoal,29.9,29.9
+babyartikel,Hauck,"Hauck Beta Plus White Newborn Set - 5-tlg. Hochstuhl + Aufsatz & Wippe, Essbrett, Sitzkissen - Stretch Grey",169.99,169.99
+babyartikel,Hauck,Hauck Hochstuhl Alpha Plus Grau - im Sparset inkl. Sitzkissen Nordic Grey,104.89,89.99
+babyartikel,Hauck,Hauck Alpha Plus White Newborn Set - 4-tlg. Hochstuhl + Neugeboreneneinsatz & Wippe Stretch Grey + Sitzpolster,159.97,139.99
+babyartikel,Hauck,Hauck Hochstuhl & Babyliege Sit'n Relax - Hearts,149.9,109.99
+babyartikel,Hauck,Hauck Hochstuhl Alpha Plus Natur - im Sparset inkl. Sitzkissen Jersey Charcoal,99.8,84.99
+babyartikel,Hauck,"Hauck Hochstuhl Alpha Plus Move Natur - im Sparset inkl. Essbrett, Sitzkissen Deluxe Beige und 2x Silikonteller",164.6,119.9
+babyartikel,Hauck,Hauck Verstellbarer Neugeborenenaufsatz & Wippe für Alpha & Beta Hochstuhl - Bouncer 2in1 Deluxe - Melange Grey,79.99,79.99
+babyartikel,Hauck,"Hauck Hochstuhl Beta Plus White - inkl. Essbrett, Sitzkissen und Rollen - Weiß",139.9,119.9
+babyartikel,Hauck,Hauck Hochstuhl Alpha Plus - Rose,99.9,99.9
+babyartikel,Hauck,Hauck Schutzbügel aus Holz für Alpha Plus Move Hochstuhl - Natur,24.9,19.99
+babyartikel,Hauck,Hauck Alpha Plus Weiss XL Newborn Set - Hochstuhl + 2in1 Aufsatz + Alpha Tray Essbrett + Sitzauflage - Nordic Grey,249.6,199.99
+babyartikel,Hauck,Hauck Alpha Plus Weiss XXL Newborn Set - Hochstuhl + 2in1 Aufsatz + Alpha Tray Essbrett + Zubehör - Jersey Charcoal,294.5,249.99
+babyartikel,Hauck,Hauck Alpha Plus Grau XL Newborn Set - Hochstuhl + 2in1 Aufsatz + Alpha Tray Essbrett + Sitzauflage - Nordic Grey,249.6,199.99
+babyartikel,Hauck,Hauck Alpha Plus Natur XXL Newborn Set - Hochstuhl + 2in1 Aufsatz + Alpha Tray Essbrett + Zubehör - Jersey Charcoal,284.5,239.99
+babyartikel,Hauck,Hauck Hochstuhl Alpha Plus White - im Sparset inkl. Sitzkissen Nordic Grey - Weiß,104.8,84.99
+babyartikel,Hauck,Hauck Hochstuhl Alpha Plus White - im Sparset inkl. Sitzkissen Jersey Charcoal - Weiß,109.8,89.99
+babyartikel,Hauck,Hauck Alpha Plus Natur XL Newborn Set - Hochstuhl + 2in1 Aufsatz + Alpha Tray Essbrett + Sitzauflage - Nordic Grey,239.6,199.99
+babyartikel,Hauck,Hauck Hochstuhl Alpha Plus Rose - im Sparset inkl. Sitzkissen Jersey Charcoal - Rosa,109.8,89.99
+babyartikel,Hauck,"Hauck Alpha Move Natur Newborn Set - 5-tlg. Hochstuhl + Aufsatz & Wippe, Essbrett, Sitzkissen - Stretch Beige",214.7,159.9
+babyartikel,Hauck,Hauck Alpha Tray - 2-teiliges Essbrett & Tisch für Alpha Hochstühle,54.9,44.9
+babyartikel,Hauck,Hauck Hochstuhl & Babyliege ab Geburt - Sitn Care Newborn Set (faltbar & klappbar) - Stretch Grey,199.99,109.99
+babyartikel,Hauck,Hauck Verstellbarer Neugeborenenaufsatz & Wippe für Alpha & Beta Hochstuhl - Bouncer 2in1 Deluxe - Sand,79.99,79.99
+babyartikel,Hauck,"Hauck Sitn Relax 3in1 - Hochstuhl ab der Geburt, Babyliege und Wippe - Nordic Grey",209.9,159.9
+babyartikel,Hauck,"Hauck Hochstuhl Alpha Move Natur - im Sparset inkl. Essbrett, Sitzkissen Jersey Charcoal und 2x Silikonteller",174.6,129.9
+babyartikel,Hauck,Hauck Sitzpolster / Sitzverkleinerer - Deluxe für Alpha Hochstuhl - Beige,24.9,19.9
+babyartikel,Hauck,Hauck Alpha Plus Walnut Newborn Set Deluxe - 4-tlg. Hochstuhl + 2in1 Neugeboreneneinsatz (verstellbar) + Sitzpolster,169.97,149.99
+babyartikel,Hauck,"Hauck Alpha Move Natur Newborn Set - 5-tlg. Hochstuhl + Aufsatz & Wippe Deluxe, Essbrett, Sitzkissen - Sand",224.7,179.9
+babyartikel,Hauck,Hauck Beta Plus Newborn Set - Hochstuhl + Neugeborenenaufsatz & Babywippe - White-Washed Dots,159.99,149.99
+babyartikel,Hauck,"Hauck Alpha Move Natur Newborn Set - 5-tlg. Hochstuhl + Aufsatz & Wippe Premium, Essbrett, Sitzkissen - Jersey Charcoal",239.7,199.9
+babyartikel,Hauck,"Hauck Alpha Move Natur Newborn Set - 5-tlg. Hochstuhl + Aufsatz & Wippe Premium, Essbrett, Sitzkissen - Nordic Grey",239.7,189.9
+babyartikel,Hauck,Hauck Alpha Plus Natur - Newborn Set - Hochstuhl + Neugeboreneneinsatz & Wippe,119.99,119.99
+babyartikel,Fillikid,Fillikid Hochstuhl Aron - Punkte - Grau,99.99,89.99
+babyartikel,Hauck,Hauck Hochstuhl Alpha Plus - Grey,99.9,99.9
+babyartikel,Hauck,Hauck Beta Plus Natur Newborn Set - 5-tlg. Hochstuhl + Neugeboreneneinsatz & Wippe Stretch Beige + Essbrett + Sitzpolster,154.99,154.99
+babyartikel,Hauck,Hauck Hochstuhl & Babyliege ab Geburt - Sit'n Relax Newborn Set - Pooh Cuddles,169.99,149.99
+babyartikel,Hauck,Hauck Hochstuhl & Babyliege ab Geburt - Sit'n Relax Newborn Set - Friend,149.9,129.99
+babyartikel,Hauck,Hauck Neugeborenenaufsatz & Wippe für Alpha Hochstuhl - Bouncer 2in1 - Stretch Grey,69.9,69.9
+babyartikel,Hauck,Hauck Hochstuhl Sitn Fold - Circles Blue,79.99,59.99
+babyartikel,Hauck,Hauck Alpha Plus Grau - Newborn Set - Hochstuhl + Neugeboreneneinsatz & Wippe,129.99,129.99
+babyartikel,Hauck,Hauck Neugeborenenaufsatz & Wippe für Alpha Hochstuhl - Bouncer 2in1 - Stretch Beige,69.9,69.9
+babyartikel,Hauck,Hauck Alpha Plus Natur Newborn Set Deluxe - 4-tlg. Hochstuhl + 2in1 Neugeboreneneinsatz (verstellbar) + Sitzpolster,169.97,149.99
+babyartikel,Hauck,Hauck Hochstuhl Alpha Plus - White,99.9,99.9
+babyartikel,Hauck,Hauck Alpha Plus Weiß - Newborn Set - Hochstuhl + Neugeboreneneinsatz & Wippe,129.99,129.99
+babyartikel,Hauck,Hauck Alpha Plus Walnut Newborn Set - 3-tlg. Hochstuhl + Neugeboreneneinsatz & Wippe Stretch Beige,119.99,119.99
+babyartikel,Hauck,Hauck Alpha Plus Natur Newborn Set - 3-tlg. Hochstuhl + Neugeboreneneinsatz & Wippe Stretch Beige,119.99,119.99
+babyartikel,Hauck,Hauck Alpha Plus White Newborn Set - 3-tlg. Hochstuhl + Neugeboreneneinsatz & Wippe Stretch Grey,129.99,129.99
+babyartikel,Hauck,Hauck Alpha Plus Grey Newborn Set - 3-tlg. Hochstuhl + Neugeboreneneinsatz & Wippe Stretch Grey,129.99,129.99
+babyartikel,Chicco,Chicco Hochstuhlspielzeug Willy die Windmühle,9.99,9.99
+babyartikel,Hauck,Hauck Hochstuhl Alpha Plus - Natur,89.9,89.9
+babyartikel,Hauck,Hauck Hochstuhl Sitn Relax - Multi Dots Sand,179.99,129.99
+babyartikel,Hauck,Hauck Hochstuhlauflage Deluxe - Pooh Cuddles,19.99,19.99
+babyartikel,Chicco,Chicco Hochstuhlspielzeug Phill die Raupe,16.99,16.99
+babyartikel,Hauck,Hauck Essbrett & Tisch aus Holz für Alpha Hochstühle (Wooden Tray) - Charcoal,39.9,29.9
+babyartikel,Hauck,Hauck Beta Plus Whitewashed Newborn Set - 5-tlg. Hochstuhl + Neugeboreneneinsatz & Wippe Stretch Grey + Essbrett + Sitzpolster,159.99,159.99
+babyartikel,Hauck,Hauck Hochstuhlauflage & Sitzverkleinerer - Disney Deluxe - Mickey Grey,29.99,26.99
+babyartikel,Hauck,Hauck Beta Plus Whitewashed Newborn Set Deluxe - 5-tlg. Hochstuhl + 2in1 Neugeboreneneinsatz + Essbrett + Sitzpolster,179.99,179.99
+babyartikel,Hauck,Hauck Hochstuhl Alpha Plus - Walnut,89.9,89.9
+babyartikel,LaLoona,LaLoona Hochstuhl Sitzkissen für Stokke Tripp Trapp - Grau,24.99,24.99
+babyartikel,Hauck,Hauck Sitzverkleinerer für Alpha Hochstuhl - Comfort Line - Stretch Grey,39.9,34.9
+babyartikel,Roba,Roba Sitzverkleinerer für Roba-Kombi-Hochstuhl - Adam & Eule,19.9,14.99
+babyartikel,Roba,Roba Treppen-Hochstuhl Sit Up III - Natur,89.9,64.99
+babyartikel,Fillikid,Fillikid Faltbarer Tischsitz inkl. Tasche - Melange Grau,29.99,29.99
+babyartikel,joie,joie Hochstuhl Mimzy Snacker - Alphabet,79.95,79.95
+babyartikel,Roba,Roba Universal-Sitzverkleinerer - Little Stars - Grau,29.9,19.99
+babyartikel,Roba,Roba Sitzerhöhung Boostersitz aufblasbar - Dunkelblau,34.9,24.99
+babyartikel,Fillikid,Fillikid Hochstuhl & Kinderstuhl Paul inkl. Essbrett - Sterne Grau,99.99,99.99
+babyartikel,joie,joie Hochstuhl Mimzy 2in1 - Tile,119.95,99.95
+babyartikel,Fillikid,Fillikid Hochstuhl & Kinderstuhl Paul inkl. Essbrett - Zick Zack,99.99,99.99
+babyartikel,playgro,playgro Hochstuhl-Spielzeug mit Saugfuß - Drehrassel,13.99,11.99
+babyartikel,ABC Design,ABC Design Hopper Set - Track,29.9,24.9
+babyartikel,joie,joie Hochstuhl Mimzy 2in1 - Logan,119.95,109.95
+babyartikel,Hauck,Hauck Hochstuhlauflage Deluxe - Stretch Grey,24.9,19.99
+babyartikel,Chicco,Chicco Tablett & Sitzbezug Mahlzeitset für Baby Hug 4 in 1 Air - Neutral,49.9,49.9
+babyartikel,ABC Design,ABC Design Hopper Set - Bean,29.9,24.9
+babyartikel,Roba,Roba Sitzverkleinerer für Sit Up III + Super Maxi - Jumbotwins,19.9,14.99
+babyartikel,Roba,Roba Sitzverkleinerer für Sit Up III + Super Maxi - Adam & Eule,19.9,14.99
+babyartikel,Schardt,Schardt Treppen-Hochstuhl Domino inkl. Spielbrett und Sitzverkleinerer - Circle Star - Grey,129.9,79.99
+babyartikel,Chicco,Chicco Hochstuhl und Babyliege Polly Magic Relax - Cocoa,159.99,159.99
+babyartikel,Schardt,Schardt Hochstuhl Holly Natur inkl. Sitzkissen - Rosa,139.0,84.96
+babyartikel,Hauck,Hauck Hochstuhlauflage & Sitzverkleinerer - Disney Deluxe - Minnie Grey,29.99,23.99
+babyartikel,Schardt,Schardt Kombi-Hochstuhl X-Tra II Buche Natur inkl. Sitzverkleinerer - Sternchen Grau,72.9,54.99
+babyartikel,Hauck,Hauck Hochstuhlauflage & Sitzverkleinerer - Disney Deluxe - Winnie Pooh Grey,29.99,23.99
+babyartikel,Hauck,Hauck Hochstuhlauflage Deluxe - Multicolor Beige,19.99,19.99
+babyartikel,ABC Design,ABC Design Schutzbügel Hopper - White,44.9,34.9
+babyartikel,Hauck,Hauck Hochstuhlauflage Deluxe - Sweety,24.9,19.99
+babyartikel,Roba,Roba Treppen-Hochstuhl Sit Up Click mit Essbrett - Natur,109.9,84.99
+babyartikel,Pinolino,Pinolino Kombi-Hochstuhl Lene,89.9,79.99
+babyartikel,Hauck,"Hauck Sitn Relax 3in1 - Hochstuhl ab der Geburt, Babyliege und Wippe - Stretch Grey",209.9,159.99
+babyartikel,ABC Design,ABC Design Hopper Set - Camel,29.9,19.99
+babyartikel,Chicco,"Chicco Stubenwagen, Hochstuhl, Sessel Baby Hug 4 in 1 Air - Stone",249.0,219.99
+babyartikel,Hauck,Hauck Hochstuhl Sitn Fold - Pooh Cuddles,79.99,79.99
+babyartikel,Babymoov,Babymoov Sitzerhöhung Up & Go - Grey,42.99,42.99
+babyartikel,Hauck,Hauck Hochstuhlauflage Deluxe - Teddy Grey,24.9,19.99
+babyartikel,ABC Design,ABC Design Hopper Set - Coal,29.9,16.99
+babyartikel,Hauck,Hauck Hochstuhlauflage Deluxe - Melange Charcoal,24.9,17.99
+babyartikel,Hauck,Hauck Hochstuhlauflage Deluxe - Stretch Rose,24.9,19.9
+babyartikel,Hauck,Hauck Hochstuhlauflage Deluxe - Stretch Beige,24.9,19.99
+babyartikel,Chicco,Chicco Hochstuhl und Babyliege Polly Magic Relax - Graphite,179.0,164.99

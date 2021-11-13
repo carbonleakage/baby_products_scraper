@@ -51,7 +51,7 @@ fout = "babyone.csv"
 # next_url = "dummy"
 
 for i in range(48,529,48):
-    url = f"https://www.babyone.de/kombi-kinderwagen?start={i}&sz=48&format=infinite"
+    url = f"https://www.babyone.de/hochstuehle?start={i}&sz=48&format=infinite"
     products= get_prod_list(url)
     for product in products:
         product_consolidated = pd.concat([product_consolidated, get_prod_details(product)])

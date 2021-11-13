@@ -42,7 +42,7 @@ def get_prod_list(url):
     return products, next_url
 
 
-url = "https://www.babyartikel.de/cat/kombikinderwagen?q=%3Ascore-desc&page=1"
+url = "https://www.babyartikel.de/cat/hochstuehle-co"
 next_url = "dummy"
 product_consolidated = pd.DataFrame()
 fout = "babyartikel.csv"
